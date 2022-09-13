@@ -452,10 +452,10 @@ console.log('=========================')
 // 29 - Criar uma lista com as funções de uma function
 console.log('29 - Para que serve uma function?')
 
-const funcao3 = function exemplosFunction2(funca31, funca32,funca33) {
-  console.log(funca31)
-  console.log(funca32)
-  console.log(funca33)
+const funcao3 = function exemplosFunction2(funca21, funca22,funca23) {
+  console.log(funca21)
+  console.log(funca22)
+  console.log(funca23)
 }
 
 funcao3('1. Agrupamento de códigos', '2. Reutilização de código', '3. Dar significado a um bloco de código')
@@ -465,7 +465,7 @@ console.log('=========================')
 // 30 - Criar uma lista com as funções de uma function
 console.log('30 - Citê três funções de uma "function":')
 
-const funcao4 = function exemplosFunction3(funca41, funca42, funca43) {
+const funcao4 = function exemplosFunction4(funca41, funca42, funca43) {
   console.log(funca41)
   console.log(funca42)
   console.log(funca43)
@@ -475,279 +475,266 @@ funcao4('1. Agrupamento de códigos', '2. Reutilização de código', '3. Dar si
 console.log('=========================')
 // =====================================================
 
-// // 31 - Criar uma lista com as funções de uma function
-// console.log('Cite três funções de uma "function":')
+// 31 - Criar uma lista com as funções de uma function
+console.log('31 - Cite três funções de uma "function":')
 
-// function exemplosFunction4() {
-//   console.log('1. Agrupamento de códigos')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado a um bloco de código')
-// }
+const funcao5 = function exemplosFunction5(funca51, funca52, funca53) {
+  console.log(funca51)
+  console.log(funca52)
+  console.log(funca53)
+}
 
-// exemplosFunction4()
-// console.log('=========================')
-// // =====================================================
+funcao5('1. Agrupamento de códigos', '2. Reutilização de código', '3. Dar significado a um bloco de código')
+console.log('=========================')
+// =====================================================
 
-// // 32 - Criar uma lista com as funções de uma function
-// console.log('Cite três exemplos de uma "function":')
+// 32 - Criar uma lista com as funções de uma function
+console.log('32 - Cite três exemplos de uma "function":')
 
-// function exemplosFunction5() {
-//   console.log('1. Agrupamento de códigos')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar signnificado a um bloco de código')
-// }
+const funcao6 = function exemplosFunction6(funca61, funca62, funca63) {
+  console.log(funca61)
+  console.log(funca62)
+  console.log(funca63)
+}
 
-// exemplosFunction5()
-// console.log('=========================')
-// // =====================================================
+funcao6('1. Agrupamento de códigos', '2. Reutilização de código', '3. Dar signnificado a um bloco de código')
+console.log('=========================')
+// =====================================================
 
-// // 33 - Criar uma lista com as funções de uma function
-// console.log('Cite três exemplos de uma "function:"')
+// 33 - Criar uma lista com as funções de uma function
+// console.log(33 - 'Cite três exemplos de uma "function:"')
 
-// function exemplosFunction6() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado a um bloco de cóodigo')
-// }
+const funcao7 = function exemplosFunction7(funcao71, funcao72, funcao73) {
+  console.log(funcao71)
+  console.log(funcao72)
+  console.log(funcao73)
+}
 
-// exemplosFunction6()
-// console.log('=========================')
-// // =====================================================
+funcao7('1. Agrupamento de código', '2. Reutilização de código', '3. Dar significado a um bloco de cóodigo')
+console.log('=========================')
+// =====================================================
 
-// // 34 - Criar uma lista com as funções de uma function
-// console.log('Dar exemplo de funções da "function":')
+// 34 - Criar uma lista com as funções de uma function
+console.log('34 - Dar exemplo de funções da "function":')
 
-// function exemplosFunction7() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado a um bloco de código')
-// }
+const funcao8 = function exemplosFunction8(funcao81, funcao82, funcao83) {
+  console.log(funcao81)
+  console.log(funcao82)
+  console.log(funcao83)
+}
 
-// exemplosFunction7()
-// console.log('=========================')
-// // =====================================================
+funcao8('1. Agrupamento de código', '2. Reutilização de código', '3. Dar significado a um bloco de código')
+console.log('=========================')
+// =====================================================
 
-// // 35 - Criar uma lista com as funções de uma function
-// console.log('Funções da "Function":')
+// 35 - Criar uma lista com as funções de uma function
+console.log('35 - Funções da "Function":')
 
 
-// function exemplosFunction8() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado a um bloco de código')
-// }
+const funcao9 = function exemplosFunction9(funcao91, funcao92, funcao93) {
+  console.log(funcao91)
+  console.log(funcao92)
+  console.log(funcao93)
+}
 
-// exemplosFunction8()
-// console.log('=========================')
-// // =====================================================
+funcao9('1. Agrupamento de código', '2. Reutilização de código', '3. Dar significado a um bloco de código')
+console.log('=========================')
+// =====================================================
 
-// // 36 - Criar uma lista com as funções de uma function
-// console.log('Funções da "function":')
+// 36 - Criar uma lista com as funções de uma function
+console.log('36 - Funções da "function":')
 
-// function exemplosFunction9() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado a um bloco de código')
-// }
+const funcao10 = function exemplosFunction10(funcao101, funcao102, funcao103) {
+  console.log(funcao101)
+  console.log(funcao102)
+  console.log(funcao103)
+}
 
-// exemplosFunction9()
-// console.log('=========================')
-// // =====================================================
+funcao10('1. Agrupamento de código', '2. Reutilização de código', '3. Dar significado a um bloco de código')
+console.log('=========================')
+// =====================================================
 
-// // 37 - Criar uma lista com as funções de uma function
-// console.log('Funções da "function":')
+// 37 - Criar uma lista com as funções de uma function
+console.log('37 - Funções da "function":')
 
-// function exemplosFunction10() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado a um bloco de código')
-// }
+const funcao11 = function exemplosFunction11(funcao111, funcao112, funcao113) {
+  console.log(funcao111)
+  console.log(funcao112)
+  console.log(funcao113)
+}
 
-// exemplosFunction10()
-// console.log('=========================')
-// // =====================================================
+funcao11('1. Agrupamento de código', '2. Reutilização de código', '3. Dar significado a um bloco de código')
+console.log('=========================')
+// =====================================================
 
-// // 37 - Criar uma lista com as funções de uma function
-// console.log('Funções de uma "function":')
+// 38 - Criar uma lista com as funções de uma function
+console.log('38 - Funções de uma "function":')
 
-// function exemplosFunction11() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado a um bloco de código')
-// }
+const funcao12 = function exemplosFunction12(funcao121, funcao122, funcao123) {
+  console.log(funcao121)
+  console.log(funcao122)
+  console.log(funcao123)
+}
 
-// exemplosFunction11()
-// console.log('=========================')
-// // =====================================================
+funcao12('1. Agrupamento de código', '2. Reutilização de código', '3. Dar significado a um bloco de código')
+console.log('=========================')
+// =====================================================
 
-// // 38 - Criar uma lista com as funções de uma function
-// console.log('Funções de uma "function":')
+// 39 - Criar uma lista com as funções de uma function
+console.log('39 - Funções de uma "function":')
 
-// function exemplosFunction12() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado a um bloco de código')
-// }
+const funcao13 = function exemplosFunction13(funcao131, funcao132, funcao133) {
+  console.log(funcao131)
+  console.log(funcao132)
+  console.log(funcao133)
+}
 
-// exemplosFunction12()
-// console.log('=========================')
-// // =====================================================
+funcao13('1. Agrupamento de código', '2. Reutlização de código', '3. Dar significado a um bloco de código')
+console.log('=========================')
+// =====================================================
 
-// // 39 - Criar uma lista com as funções de uma function
-// console.log('Funções de uma "function":')
+// 40 - Criar uma lista com as funções de uma function
+console.log('40 - Funções de uma "function":')
 
-// function exemplosFunction13() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutlização de código')
-//   console.log('3. Dar significado a um bloco de código')
-// }
+const funcao14 = function exemplosFunction14(funcao141, funcao142, funcao143) {
+  console.log(funcao141)
+  console.log(funcao142)
+  console.log(funcao143)
+}
 
-// exemplosFunction13()
-// console.log('=========================')
-// // =====================================================
+funcao14('1. Agrupamento de código', '2. Reutilização de código', '3. Dar significado a um bloco de código')
+console.log('=========================')
+// =====================================================
 
-// // 40 - Criar uma lista com as funções de uma function
-// console.log('Funções de uma "function":')
+// 41 - Criar uma lista com as funções de uma function
+console.log('41 - Funções de uma "function":')
 
-// function exemplosFunction14() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado a um bloco de código')
-// }
+const funcao15 = function exemplosFunction15(funcao151, funcao152, funcao153) {
+  console.log(funcao151)
+  console.log(funcao152)
+  console.log(funcao153)
+}
 
-// exemplosFunction14()
-// console.log('=========================')
-// // =====================================================
+funcao15('1. Agrupamento de código', '2. Reutilização de código', '3. Dar significado a um bloco de código')
+console.log('=========================')
+// =====================================================
 
-// // 41 - Criar uma lista com as funções de uma function
-// console.log('Funções de uma "function":')
+// 42 - Criar uma lista com as funções de uma function
+console.log('42 - Funções de uma "function":')
 
-// function exemplosFunction15() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado a um bloco de código')
-// }
+const funcao16 = function exemplosFunction16(funcao161, funcao162, funcao163) {
+  console.log(funcao161)
+  console.log(funcao162)
+  console.log(funcao163)
+}
 
-// exemplosFunction15()
-// console.log('=========================')
-// // =====================================================
+funcao16('1. Agrupamento de código', '2. Reutilização de código', '3. Dar significado a um bloco de código')
+console.log('=========================')
+// =====================================================
 
-// // 42 - Criar uma lista com as funções de uma function
-// console.log('Funções de uma "function":')
+// 43 - Criar uma lista com as funções de uma function
+console.log('43 - Funções de uma "function":')
 
-// function exemplosFunction16() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado a um bloco de código')
-// }
+const funcao17 = function exemplosFunction17(funcao171, funcao172, funcao173) {
+  console.log(funcao171)
+  console.log(funcao172)
+  console.log(funcao173)
+}
 
-// exemplosFunction16()
-// console.log('=========================')
-// // =====================================================
+funcao17('1. Agrupamento de código', '2. Reutilização de código', '3. Dar significado a um bloco de código')
+console.log('=========================')
+// =====================================================
 
-// // 43 - Criar uma lista com as funções de uma function
-// console.log('Funções de uma "function":')
+// 44 - Criar uma lista com as funções de uma function
+console.log('44 - Funções de uma "function":')
 
-// function exemplosFunction17() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado a um bloco de código')
-// }
+const funcao18 = function exemplosFunction18(funcao181, funcao182, funcao183) {
+  console.log(funcao181)
+  console.log(funcao182)
+  console.log(funcao183)
+}
 
-// exemplosFunction17()
-// console.log('=========================')
-// // =====================================================
+funcao18('1. Agrupamento de código', '2. Reutilização de código', '3. Dar significado a um bloco de código')
+console.log('=========================')
+// =====================================================
 
-// // 44 - Criar uma lista com as funções de uma function
-// console.log('Funções de uma "function":')
+// 45 - Criar uma lista com as funções de uma function
+console.log('45 - Funções de uma "function":')
 
-// function exemplosFunction17() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado a um bloco de código')
-// }
+const funcao19 = function exemplosFunction19(funcao191, funcao192, funcao193) {
+  console.log(funcao191)
+  console.log(funcao192)
+  console.log(funcao193)
+}
 
-// exemplosFunction17()
-// console.log('=========================')
-// // =====================================================
+funcao19('1. Agrupamento de código', '2. Reutilização de código', '3. Dar significado ao bloco de código')
+console.log('=========================')
+// =====================================================
 
-// // 45 - Criar uma lista com as funções de uma function
-// console.log('Funções de uma "function":')
+// 46 - Criar uma lista com as funções de uma function
+console.log('46 - Funções de uma "function":')
 
-// function exemplosFunction18() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado ao bloco de código')
-// }
+const funcao20 = function exemplosFunction20(funcao201, funcao202, funcao203) {
+  console.log(funcao201)
+  console.log(funcao202)
+  console.log(funcao203)
+}
 
-// exemplosFunction18()
-// console.log('=========================')
-// // =====================================================
+funcao20('1. Agrupamento de código', '2. Reutilização de código', '3. Dar significado a um bloco de código')
+console.log('=========================')
+// =====================================================
 
-// // 46 - Criar uma lista com as funções de uma function
-// console.log('Funções de uma "function":')
+// 47 - Criar uma lista com as funções de uma function
+console.log('Funções de uma "function":')
 
-// function exemplosFunction19() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado a um bloco de código')
-// }
+const funcao21 = function exemplosFunction20() {
+  console.log('1. Agrupamento de código')
+  console.log('2. Reutilização de código')
+  console.log('3. Dar significado a um bloco de código')
+}
 
-// exemplosFunction19()
-// console.log('=========================')
-// // =====================================================
+funcao21()
+console.log('=========================')
+// =====================================================
 
-// // 47 - Criar uma lista com as funções de uma function
-// console.log('Funções de uma "function":')
+// 48 - Criar uma lista com as funções de uma function
+console.log('48 - Funções de uma "function":')
 
-// function exemplosFunction20() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado a um bloco de código')
-// }
+const funcao22 = function exemplosFunction22(funcao221, funcao222, funcao223) {
+  console.log(funcao221)
+  console.log(funcao222)
+  console.log(funcao223)
+}
 
-// exemplosFunction20()
-// console.log('=========================')
-// // =====================================================
+funcao22('1. Agrupamento de código', '2. Reutilização de código', '3. Dar significado a um bloco de código')
+console.log('=========================')
+// =====================================================
 
-// // 48 - Criar uma lista com as funções de uma function
-// console.log('Funções de uma "function":')
+// 49 - Criar uma lista com as funções de uma function
+console.log('49 - Funções de uma "function":')
 
-// function exemplosFunction21() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado a um bloco de código')
-// }
+const funcao23 = function exemplosFunction23(funcao231, funcao232, funcao233) {
+  console.log(funcao231)
+  console.log(funcao232)
+  console.log(funcao233)
+}
 
-// exemplosFunction21()
-// console.log('=========================')
-// // =====================================================
+funcao23('1. Agrupamento de código', '2. Reutilização de código', '3. Dar significado a um bloco de código')
+console.log('=========================')
+// =====================================================
 
-// // 49 - Criar uma lista com as funções de uma function
-// console.log('Funções de uma "function":')
+// 50 - Criar uma lista com as funções de uma function
+console.log('Funções de uma "function":')
 
-// function exemplosFunction22() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado a um bloco de código')
-// }
+const funcao24 = function exemplosFunction24(funcao241, funcao242, funcao243) {
+  console.log(funcao241)
+  console.log(funcao242)
+  console.log(funcao243)
+}
 
-// exemplosFunction20()
-// console.log('=========================')
-// // =====================================================
-
-// // 50 - Criar uma lista com as funções de uma function
-// console.log('Funções de uma "function":')
-
-// function exemplosFunction23() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado a um bloco de código')
-// }
-
-// exemplosFunction23()
-// console.log('=========================')
-// // =====================================================
+funcao24('1. Agrupamento de código', '2. Reutilização de código', '3. Dar significado a um bloco de código')
+console.log('=========================')
+// =====================================================
 
 // // 51 - Criar uma lista com as funções de uma function
 // console.log('Funções de uma "function":')
