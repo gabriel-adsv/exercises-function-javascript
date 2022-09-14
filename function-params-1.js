@@ -724,7 +724,7 @@ console.log('=========================')
 // =====================================================
 
 // 50 - Criar uma lista com as funções de uma function
-console.log('Funções de uma "function":')
+console.log('50 - Funções de uma "function":')
 
 const funcao24 = function exemplosFunction24(funcao241, funcao242, funcao243) {
   console.log(funcao241)
@@ -736,360 +736,375 @@ funcao24('1. Agrupamento de código', '2. Reutilização de código', '3. Dar si
 console.log('=========================')
 // =====================================================
 
-// // 51 - Criar uma lista com as funções de uma function
-// console.log('Funções de uma "function":')
-
-// function exemplosFunction24() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado a um bloco de código')
-// }
-
-// exemplosFunction24()
-// console.log('=========================')
-// // =====================================================
-
-// // 52 - Criar uma lista com as funções de uma function
-// console.log('Funções de uma "function":')
-
-// function exemplosFunction25() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar signicado a um bloco de código')
-// }
-
-// exemplosFunction25()
-// console.log('=========================')
-// // =====================================================
-
-// // 53 - Criar uma lista com as funções de uma function
-// console.log('Funções de uma "function":')
-
-// function exemplosFunction26() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado a um bloco de código')
-// }
-
-// exemplosFunction26()
-// console.log('=========================')
-// // =====================================================
-
-// // 54 - Criar uma lista com as funções de uma function
-// console.log('Funções de uma "function":')
-
-// function exemplosFunction27() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado a um bloco de código')
-// }
-
-// exemplosFunction27()
-// console.log('=========================')
-// // =====================================================
-
-// // 55 - Criar uma lista com as funções de uma function
-// console.log('Funções de uma "function":')
-
-// function exemplosFunction28() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado a um bloco de código')
-// }
-
-// exemplosFunction28()
-// console.log('=========================')
-// // =====================================================
-
-// // 56 - Criar uma lista com as funções de uma function
-// console.log('Funções de uma "function":')
-
-// function exemplosFunction29() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado a um bloco de código')
-// }
-
-// exemplosFunction29()
-// console.log('=========================')
-// // =====================================================
-
-// // 57 - Criar uma lista com as funções de uma function
-// console.log('Funções de uma "function":')
-
-// function exemplosFunction30() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado a um bloco de código')
-// }
-
-// exemplosFunction30()
-// console.log('=========================')
-// // =====================================================
-
-// // 58 - Criar uma lista com as funções de uma function
-// console.log('Funções de uma "function":')
-
-// function exemplosFunction31() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado ao bloco de código')
-// }
-
-// exemplosFunction31()
-// console.log('=========================')
-// // =====================================================
-
-// // 59 - Criar uma lista com as funções de uma function
-// console.log('Funções de uma "function":')
-
-// function exemplosFunction32() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado ao bloco de código')
-// }
-
-// exemplosFunction32()
-// console.log('=========================')
-// // =====================================================
-
-// // 60 - Criar uma lista com as funções de uma function
-// console.log('Funções de uma "function":')
-
-// function exemplosFunction33() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado ao bloco de código')
-// }
-
-// exemplosFunction33()
-// console.log('=========================')
-// // =====================================================
-
-// // 61 - Criar uma lista com marcas de chocolate
-// console.log('Cite 5 marcas de chocolate:')
-
-// function marcasChocolate() {
-//   console.log('1. Lacta')
-//   console.log('2. Nestlé')
-//   console.log('3. Garoto')
-//   console.log('4. Cacau Show')
-//   console.log('5. Kinder')
-// }
-
-// marcasChocolate()
-// console.log('=========================')
-// // =====================================================
-
-// // 62 - Cite 5 sayajins
-// console.log('Cite 5 Sayajins:')
-
-// function listSayajins() {
-//   console.log('1. Goku')
-//   console.log('2. Vegeta')
-//   console.log('3. Gohan')
-//   console.log('4. Trunks')
-//   console.log('5. Goten')
-// }
-
-// listSayajins()
-// console.log('=========================')
-// // =====================================================
-
-// // 63 - Cite 5 objetos
-// console.log('Cite 5 objetos')
-
-// function listObjects() {
-//   console.log('1. Caneca')
-//   console.log('2. Lápis')
-//   console.log('3. Tênis')
-//   console.log('4. Celular')
-//   console.log('5. Blusa')
-// }
-
-// listObjects()
-// console.log('=========================')
-// // =====================================================
-
-// // 64 - Cite 5 plantas
-// console.log('Cite 5 plantas')
-
-// function listPlants() {
-//   console.log('1. Jibóia')
-//   console.log('2. Cacto')
-//   console.log('3. Suculenta')
-//   console.log('4. Planta Carnívora')
-//   console.log('5. Espada de São Jorge')
-// }
-
-// listPlants()
-// console.log('=========================')
-// // =====================================================
-
-// // 65 - Cite 5 novelas
-// console.log('Cite 5 novelas')
-
-// function listNovelas() {
-//   console.log('1. O Clone')
-//   console.log('2. Sangue Bom')
-//   console.log('3. Salve Jorge')
-//   console.log('4. Avenida Brasil')
-//   console.log('5. Caminho das Índias')
-// }
-
-// listNovelas()
-// console.log('=========================')
-// // =====================================================
-
-// // 66 - Cite 5 estados brasileiros
-// console.log('Cite 5 estados brasileiros')
-
-// function statesBrazilian() {
-//   console.log('1. São Paulo')
-//   console.log('2. Pará')
-//   console.log('3. Minas Gerais')
-//   console.log('4. Rio de Janeiro')
-//   console.log('5. Alagoas')
-// }
-
-// statesBrazilian()
-// console.log('=========================')
-// // =====================================================
-
-// // 67 - Cite 5 nomes masculinos
-// console.log('Cite 5 nomes masculinos')
-
-// function nomesMasculinos() {
-//   console.log('1. Gabriel')
-//   console.log('2. Fernando')
-//   console.log('3. Miguel')
-//   console.log('4. Igor')
-//   console.log('5. Miguel')
-// }
-
-// nomesMasculinos()
-// console.log('=========================')
-// // =====================================================
-
-// // 68 - Cite 5 nomes femininos
-// console.log('Cite 5 nomes femininos')
-
-// function nomesFemininos() {
-//   console.log('1. Analuz')
-//   console.log('2. Fernanda')
-//   console.log('3. Aline')
-//   console.log('4. Brunca')
-//   console.log('5. Helena')
-// }
-
-// nomesFemininos()
-// console.log('=========================')
-// // =====================================================
-
-// // 69 - Cite 5 linguagens de programação
-// console.log('Cite 5 linguagens de programação')
-
-// function linguagensProgramação() {
-//   console.log('1. JavaScript')
-//   console.log('2. Java')
-//   console.log('3. Python')
-//   console.log('4. C++')
-//   console.log('5. C#')
-// }
-
-// linguagensProgramação()
-// console.log('=========================')
-// // =====================================================
-
-// // 70 - Funções de uma "function"
-// console.log('Funções de uma "function":')
-
-// function exemplosFunction34() {
-//   console.log('1. Agrupamento de Código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado a um bloco de código')
-// }
-
-// exemplosFunction34()
-// console.log('=========================')
-// // =====================================================
-
-// // 71 - Cite 5 redes sociais
-// console.log('Cite 5 redes sociais')
-
-// function redesSociais() {
-//   console.log('1. Instagram')
-//   console.log('2. Linkedin')
-//   console.log('3. Twitter')
-//   console.log('4. YouTube')
-//   console.log('5. Facebook')
-// }
-
-// redesSociais()
-// console.log('=========================')
-// // =====================================================
-
-// // 72 - Cite 5 planetas
-// console.log('Cite 5 planetas:')
-
-// function fivePlanets() {
-//   console.log('1. Terra')
-//   console.log('2. Marte')
-//   console.log('3. Júpiter')
-//   console.log('4. Mercúrio')
-//   console.log('5. Saturno')
-// }
-
-// fivePlanets()
-// console.log('=========================')
-// // =====================================================
-
-// // 73 - Cite 5 frutas
-// console.log('Cite 5 frutas')
-
-// function fiveFruits() {
-//   console.log('1. Abacaxi')
-//   console.log('2. Banana')
-//   console.log('3. Carambola')
-//   console.log('4. Damasco')
-//   console.log('5. Framboesa')
-// }
-
-// fiveFruits()
-// console.log('=========================')
-// // =====================================================
-
-// // 75 - 6 meses (Parte I)
-// console.log('Cite 6 meses:')
-
-// function sixMonths() {
-//   console.log('1. Janeiro')
-//   console.log('2. Fevereiro')
-//   console.log('3. Março')
-//   console.log('4. Abril')
-//   console.log('5. Maio')
-//   console.log('6. Junho')
-// }
-
-// sixMonths()
-// console.log('=========================')
-// // =====================================================
-
-// // 76 - 6 meses (Parte II)
-// console.log('Cite mais 6 meses:')
-
-// function sixMonths2() {
-//   console.log('7. Julho')
-//   console.log('8. Agosto')
-//   console.log('9. Setembro')
-//   console.log('10. Outubro')
-//   console.log('11. Novembro')
-//   console.log('12. Dezembro')
-// }
-
-// sixMonths2()
-// console.log('=========================')
-// // =====================================================
+// 51 - Criar uma lista com as funções de uma function
+console.log('51 - Funções de uma "function":')
+
+const funcao25 = function exemplosFunction25(funcao251, funcao252, funcao253) {
+  console.log(funcao251)
+  console.log(funcao252)
+  console.log(funcao253)
+}
+
+funcao25('1. Agrupamento de código', '2. Reutilização de código', '3. Dar significado a um bloco de código')
+console.log('=========================')
+// =====================================================
+
+// 52 - Criar uma lista com as funções de uma function
+console.log('52 - Funções de uma "function":')
+
+const funcao26 = function exemplosFunction26(funcao261, funcao262, funcao263) {
+  console.log(funcao261)
+  console.log(funcao262)
+  console.log(funcao263)
+}
+
+funcao26('1. Agrupamento de código', '2. Reutilização de código', '3. Dar signicado a um bloco de código')
+console.log('=========================')
+// =====================================================
+
+// 53 - Criar uma lista com as funções de uma function
+console.log('53 - Funções de uma "function":')
+
+const funcao27 = function exemplosFunction27(funcao271, funcao272, funcao273) {
+  console.log(funcao271)
+  console.log(funcao272)
+  console.log(funcao273)
+}
+
+funcao27('1. Agrupamento de código', '2. Reutilização de código', '3. Dar significado a um bloco de código')
+console.log('=========================')
+// =====================================================
+
+// 54 - Criar uma lista com as funções de uma function
+console.log('54 - Funções de uma "function":')
+
+const funcao28 = function exemplosFunction28(funcao281, funcao282, funcao283) {
+  console.log(funcao281)
+  console.log(funcao282)
+  console.log(funcao283)
+}
+
+funcao28('1. Agrupamento de código', '2. Reutilização de código', '3. Dar significado a um bloco de código')
+console.log('=========================')
+// =====================================================
+
+// 55 - Criar uma lista com as funções de uma function
+console.log('55 - Funções de uma "function":')
+
+const funcao29 = function exemplosFunction29(funcao291, funcao292, funcao293) {
+  console.log(funcao291)
+  console.log(funcao292)
+  console.log(funcao293)
+}
+
+funcao29('1. Agrupamento de código', '2. Reutilização de código', '3. Dar significado a um bloco de código')
+console.log('=========================')
+// =====================================================
+
+// 56 - Criar uma lista com as funções de uma function
+console.log('56 - Funções de uma "function":')
+
+const funcao30 = function exemplosFunction30(funcao301, funcao302, funcao303) {
+  console.log(funcao301)
+  console.log(funcao302)
+  console.log(funcao303)
+}
+
+funcao30('1. Agrupamento de código', '2. Reutilização de código', '3. Dar significado a um bloco de código')
+console.log('=========================')
+// =====================================================
+
+// 57 - Criar uma lista com as funções de uma function
+console.log('57 - Funções de uma "function":')
+
+const funcao31 = function exemplosFunction31(funcao311, funcao312, funcao313) {
+  console.log(funcao311)
+  console.log(funcao312)
+  console.log(funcao313)
+}
+
+funcao31('1. Agrupamento de código', '2. Reutilização de código', '3. Dar significado a um bloco de código')
+console.log('=========================')
+// =====================================================
+
+// 58 - Criar uma lista com as funções de uma function
+console.log('58 - Funções de uma "function":')
+
+const funcao32 = function exemplosFunction32(funcao321, funcao322, funcao323) {
+  console.log(funcao321)
+  console.log(funcao322)
+  console.log(funcao323)
+}
+
+funcao32('1. Agrupamento de código', '2. Reutilização de código', '3. Dar significado ao bloco de código')
+console.log('=========================')
+// =====================================================
+
+// 59 - Criar uma lista com as funções de uma function
+console.log('59 - Funções de uma "function":')
+
+const funcao33 = function exemplosFunction33(funcao331, funcao332, funcao333) {
+  console.log(funcao331)
+  console.log(funcao332)
+  console.log(funcao333)
+}
+
+funcao33('1. Agrupamento de código', '2. Reutilização de código', '3. Dar significado ao bloco de código')
+console.log('=========================')
+// =====================================================
+
+// 60 - Criar uma lista com as funções de uma function
+console.log('60 - Funções de uma "function":')
+
+const funcao34 = function exemplosFunction34(funcao341, funcao342, funcao343) {
+  console.log(funcao341)
+  console.log(funcao342)
+  console.log(funcao343)
+}
+
+funcao34('1. Agrupamento de código', '2. Reutilização de código', '3. Dar significado ao bloco de código')
+console.log('=========================')
+// =====================================================
+
+// 61 - Criar uma lista com marcas de chocolate
+console.log('61 - Cite 5 marcas de chocolate:')
+
+const chocolate = function marcasChocolate(chocolate1, chocolate2, chocolate3, chocolate4, chocolate5) {
+  console.log(chocolate1)
+  console.log(chocolate2)
+  console.log(chocolate3)
+  console.log(chocolate4)
+  console.log(chocolate5)
+}
+
+chocolate('1. Lacta', '2. Nestlé', '3. Garoto', '4. Cacau Show', '5. Kinder')
+console.log('=========================')
+// =====================================================
+
+// 62 - Cite 5 sayajins
+console.log('62 - Cite 5 Sayajins:')
+
+const sayajin = function listSayajins(sayajin1, sayajin2, sayajin3, sayajin4, sayajin5) {
+  console.log(sayajin1)
+  console.log(sayajin2)
+  console.log(sayajin3)
+  console.log(sayajin4)
+  console.log(sayajin5)
+}
+
+sayajin('1. Goku', '2. Vegeta', '3. Gohan', '4. Trunks', '5. Goten')
+console.log('=========================')
+// =====================================================
+
+// 63 - Cite 5 objetos
+console.log('63 - Cite 5 objetos')
+
+const objetos = function listObjects(objeto1, objeto2, objeto3, objeto4, objeto5) {
+  console.log(objeto1)
+  console.log(objeto2)
+  console.log(objeto3)
+  console.log(objeto4)
+  console.log(objeto5)
+}
+
+objetos('1. Caneca', '2. Lápis', '3. Tênis', '4. Celular', '5. Blusa')
+console.log('=========================')
+// =====================================================
+
+// 64 - Cite 5 plantas
+console.log('64 - Cite 5 plantas')
+
+const plantas = function listPlants(planta1, planta2, planta3, planta4, planta5) {
+  console.log(planta1)
+  console.log(planta2)
+  console.log(planta3)
+  console.log(planta4)
+  console.log(planta5)
+}
+
+plantas('1. Jibóia', '2. Cacto', '3. Suculenta', '4. Planta Carnívora', '5. Espada de São Jorge')
+console.log('=========================')
+// =====================================================
+
+// 65 - Cite 5 novelas
+console.log('Cite 5 novelas')
+
+function listNovelas() {
+  console.log('1. O Clone')
+  console.log('2. Sangue Bom')
+  console.log('3. Salve Jorge')
+  console.log('4. Avenida Brasil')
+  console.log('5. Caminho das Índias')
+}
+
+listNovelas()
+console.log('=========================')
+// =====================================================
+
+// 66 - Cite 5 estados brasileiros
+console.log('66 - Cite 5 estados brasileiros')
+
+const estado = function statesBrazilian(estado1, estado2, estado3, estado4, estado5) {
+  console.log(estado1)
+  console.log(estado2)
+  console.log(estado3)
+  console.log(estado4)
+  console.log(estado5)
+}
+
+estado('1. São Paulo', '2. Pará', '3. Minas Gerais', '4. Rio de Janeiro', '5. Alagoas')
+console.log('=========================')
+// =====================================================
+
+// 67 - Cite 5 nomes masculinos
+console.log('67 - Cite 5 nomes masculinos')
+
+const nomesmasc = function nomesMasculinos(nomesmasc1, nomesmasc2, nomesmasc3, nomesmasc4, nomesmasc5) {
+  console.log(nomesmasc1)
+  console.log(nomesmasc2)
+  console.log(nomesmasc3)
+  console.log(nomesmasc4)
+  console.log(nomesmasc5)
+}
+
+nomesmasc('1. Gabriel', '2. Fernando', '3. Miguel', '4. Igor', '5. Miguel')
+console.log('=========================')
+// =====================================================
+
+// 68 - Cite 5 nomes femininos
+console.log('68 - Cite 5 nomes femininos')
+
+const nomesfem = function nomesFemininos(nomesfem1, nomesfem2, nomesfem3, nomesfem4, nomesfem5) {
+  console.log(nomesfem1)
+  console.log(nomesfem2)
+  console.log(nomesfem3)
+  console.log(nomesfem4)
+  console.log(nomesfem5)
+}
+
+nomesfem('1. Analuz', '2. Fernanda', '3. Aline', '4. Bruna', '5. Helena')
+console.log('=========================')
+// =====================================================
+
+// 69 - Cite 5 linguagens de programação
+console.log('69 - Cite 5 linguagens de programação')
+
+const lingprog = function linguagensProgramação(lingprog1, lingprog2, lingprog3, lingprog4, lingprog5) {
+  console.log(lingprog1)
+  console.log(lingprog2)
+  console.log(lingprog3)
+  console.log(lingprog4)
+  console.log(lingprog5)
+}
+
+lingprog('1. JavaScript', '2. Java', '3. Python', '4. C++', '5. C#')
+console.log('=========================')
+// =====================================================
+
+// 70 - Funções de uma "function"
+console.log('70 - Funções de uma "function":')
+
+const funcao70 = function exemplosFunction70(funcao701, funcao702, funcao703) {
+  console.log(funcao701)
+  console.log(funcao702)
+  console.log(funcao703)
+}
+
+funcao70('1. Agrupamento de Código', '2. Reutilização de código', '3. Dar significado a um bloco de código')
+console.log('=========================')
+// =====================================================
+
+// 71 - Cite 5 redes sociais
+console.log('71 - Cite 5 redes sociais')
+
+const redessociais = function redesSociais(redesocial1, redesocial2, redesocial3, redesocial4, redesocial5) {
+  console.log(redesocial1)
+  console.log(redesocial2)
+  console.log(redesocial3)
+  console.log(redesocial4)
+  console.log(redesocial5)
+}
+
+redessociais('1. Instagram', '2. Linkedin', '3. Twitter', '4. YouTube', '5. Facebook')
+console.log('=========================')
+// =====================================================
+
+// 72 - Cite 5 planetas
+console.log('72 - Cite 5 planetas:')
+
+const planetas = function fivePlanets(planeta1, planeta2, planeta3, planeta4, planeta5) {
+  console.log(planeta1)
+  console.log(planeta2)
+  console.log(planeta3)
+  console.log(planeta4)
+  console.log(planeta5)
+}
+
+planetas('1. Terra', '2. Marte', '3. Júpiter', '4. Mercúrio', '5. Saturno')
+console.log('=========================')
+// =====================================================
+
+// 73 - Cite 5 frutas
+console.log('73 - Cite 5 frutas')
+
+const frutas = function fiveFruits(fruta1, fruta2, frunta3, fruta4, fruta5) {
+  console.log(fruta1)
+  console.log(fruta2)
+  console.log(frunta3)
+  console.log(fruta4)
+  console.log(fruta5)
+}
+
+frutas('1. Abacaxi', '2. Banana', '3. Carambola', '4. Damasco', '5. Framboesa')
+console.log('=========================')
+// =====================================================
+
+// 74 - Cite 5 frutas
+console.log('74 - Cite 5 frutas')
+
+const frutas2 = function fiveFruits(frutas21, frutas22, frutas23, frutas24, frutas25) {
+  console.log(frutas21)
+  console.log(frutas22)
+  console.log(frutas23)
+  console.log(frutas24)
+  console.log(frutas25)
+}
+
+frutas2('1. Abacate', '2. Mamão', '3. Laranja', '4. Manga', '5. Mexerica')
+console.log('=========================')
+// =====================================================
+
+// 75 - 6 meses (Parte I)
+console.log('75 - Cite 6 meses:')
+
+const semestre1 = function sixMonths(mes1, mes2, mes3, mes4, mes5, mes6) {
+  console.log(mes1)
+  console.log(mes2)
+  console.log(mes3)
+  console.log(mes4)
+  console.log(mes5)
+  console.log(mes6)
+}
+
+semestre1('1. Janeiro', '2. Fevereiro', '3. Março', '4. Abril', '5. Maio', '6. Junho')
+console.log('=========================')
+// =====================================================
+
+// 76 - 6 meses (Parte II)
+console.log('Cite mais 6 meses:')
+
+const semestre2 = function sixMonths2(mes7, mes8, mes9, mes10, mes11, mes12) {
+  console.log(mes7)
+  console.log(mes8)
+  console.log(mes9)
+  console.log(mes10)
+  console.log(mes11)
+  console.log(mes12)
+}
+
+semestre2('7. Julho', '8. Agosto', '9. Setembro', '10. Outubro', '11. Novembro', '12. Dezembro')
+console.log('=========================')
+// =====================================================
 
 // // 77 - 5 HQ's
 // console.log('Cite 5 HQs:')
