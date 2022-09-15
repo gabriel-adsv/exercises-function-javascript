@@ -1091,7 +1091,7 @@ console.log('=========================')
 // =====================================================
 
 // 76 - 6 meses (Parte II)
-console.log('Cite mais 6 meses:')
+console.log('76 - Cite mais 6 meses:')
 
 const semestre2 = function sixMonths2(mes7, mes8, mes9, mes10, mes11, mes12) {
   console.log(mes7)
@@ -1106,349 +1106,376 @@ semestre2('7. Julho', '8. Agosto', '9. Setembro', '10. Outubro', '11. Novembro',
 console.log('=========================')
 // =====================================================
 
-// // 77 - 5 HQ's
-// console.log('Cite 5 HQs:')
-
-// function cincoQuadrinhos() {
-//   console.log('1. Turma da Mônica')
-//   console.log('2. Zé Carioca')
-//   console.log('3. Kick Ass')
-//   console.log('4. Guarda Lunar')
-//   console.log('5. Alien')
-// }
-
-// cincoQuadrinhos()
-// console.log('=========================')
-// // =====================================================
-
-// // 78 - 5 navegadores
-// console.log('5 navegadores:')
-
-
-// function cincoNavegadores() {
-//   console.log('1. Google Chrome')
-//   console.log('2. Microsoft Edge')
-//   console.log('3. Opera')
-//   console.log('4. Mozilla Firefox')
-//   console.log('5. Safari')
-// }
-
-// cincoNavegadores()
-// console.log('=========================')
-// // =====================================================
-
-// // 79 - 5 idiomas
-// console.log('Cite 5 idiomas:')
-
-// function cincoIdiomas() {
-//   console.log('1. Português')
-//   console.log('2. Inglês')
-//   console.log('3. Espanhol')
-//   console.log('4. Japonês')
-//   console.log('5. Chinês')
-// }
-
-// cincoIdiomas()
-// console.log('=========================')
-// // =====================================================
-
-// // 80 - Funções de uma function
-// console.log('Funções de uma "function":')
-
-// function funcoesFunction() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado a um bloco de código')
-// }
-
-// funcoesFunction()
-// console.log('=========================')
-// // =====================================================
-
-// // 81 - 5 marcas de celulares
-// console.log('Cite 5 marcas de celulares')
-
-// function marcasCelulares() {
-//   console.log('1. Xiaomi')
-//   console.log('2. Motorola')
-//   console.log('3. Samsung')
-//   console.log('4. Apple')
-//   console.log('5. LG')
-// }
-
-// marcasCelulares()
-// console.log('=========================')
-// // =====================================================
-
-// // 82 - Mais 5 livros
-// console.log('Mais cinco livros:')
-
-// function maisCincoLivros() {
-//   console.log('1. Sapatos Vermelhos são de Puta')
-//   console.log('2. O Meu Pé de Laranja Lima')
-//   console.log('3. Horror Noire')
-//   console.log('4. Refatoração')
-//   console.log('5. Onde Estaremos em 2200')
-// }
-
-// maisCincoLivros()
-// console.log('=========================')
-// // =====================================================
-
-// // 83 - 5 animes
-// console.log('Cinco animes:')
-
-// function cincoAnimes() {
-//   console.log('1. Dragon Ball')
-//   console.log('2. One Piece')
-//   console.log('3. Naruto')
-//   console.log('4. Shingeki No Kyojin')
-//   console.log('5. Bleach')
-// }
-
-// cincoAnimes()
-// console.log('=========================')
-// // =====================================================
-
-// // 84 - 5 cervejas
-// console.log('Cinco marcas de cervejas:')
-
-// function cincoCervejas() {
-//   console.log('1. Brahma')
-//   console.log('2. Skol')
-//   console.log('3. Original')
-//   console.log('4. Heineken')
-//   console.log('5. Budweiser')
-// }
-
-// cincoCervejas()
-// console.log('=========================')
-// // =====================================================
-
-// // 85 - 5 esportes
-// console.log('Cinco esportes:')
-
-// function cincoEsportes() {
-//   console.log('1. Skate')
-//   console.log('2. Natação')
-//   console.log('3. Futebol')
-//   console.log('4. Basquete')
-//   console.log('5. Boxe')
-// }
-
-// cincoEsportes()
-// console.log('=========================')
-// // =====================================================
-
-// // 86 - Mais 5 esportes
-// console.log('Mais cinco esportes:')
-
-// function cincoEsportes2() {
-//   console.log('6. Beisebol')
-//   console.log('7. Fórmula 1')
-//   console.log('8. Karatê')
-//   console.log('9. Vôlei')
-//   console.log('10. Hipismo')
-// }
-
-// cincoEsportes2()
-// console.log('=========================')
-// // =====================================================
-
-// // 87 - 5 alimentos
-// console.log('Cinco alimentos')
-
-// function cincoAlimentos() {
-//   console.log('1. Pão')
-//   console.log('2. Feijão')
-//   console.log('3. Arroz')
-//   console.log('4. Carne')
-//   console.log('5. Frutas')
-// }
-
-// cincoAlimentos()
-// console.log('=========================')
-// // =====================================================
-
-// // 88 - Números (Parte I)
-// console.log('Três números:')
-
-// function tresNumeros() {
-//   console.log('1')
-//   console.log('2')
-//   console.log('3')
-// }
-
-// tresNumeros()
-// console.log('=========================')
-// // =====================================================
-
-// // 89 - Números (Parte II)
-// console.log('Mais três números:')
-
-// function tresNumeros2() {
-//   console.log('4')
-//   console.log('5')
-//   console.log('6')
-// }
-
-// tresNumeros2()
-// console.log('=========================')
-// // =====================================================
-
-// // 90 - Funções da function
-// console.log('Funções de uma "function":')
-
-// function funcoesFunction2() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado a um bloco de código')
-// }
-
-// funcoesFunction2()
-// console.log('=========================')
-// // =====================================================
-
-// // 91 - Números (Parte III)
-// console.log('Mais três números:')
-
-// function tresNumeros3() {
-//   console.log('7')
-//   console.log('8')
-//   console.log('9')
-// }
-
-// tresNumeros3()
-// console.log('=========================')
-// // =====================================================
-
-// // 92 - Tabuada do 3 (Parte II)
-// console.log('Tabuada do 3')
-
-// function tabuadaTres() {
-//   console.log('3 x 1 = 3')
-//   console.log('3 x 2 = 6')
-//   console.log('3 x 3 = 9')
-// }
-
-// tabuadaTres()
-// console.log('=========================')
-// // =====================================================
-
-// // 93 - Tabuada do 3 (Parte III)
-// console.log('Tabuada do 3')
-
-// function tabuadaTres2() {
-//   console.log('3 x 4 = 12')
-//   console.log('3 x 5 = 15')
-//   console.log('3 x 6 = 18')
-// }
-
-// tabuadaTres2()
-// console.log('=========================')
-// // =====================================================
-
-// // 94 - Tabuada do 3 (Parte IV)
-// console.log('Tabuada do 3')
-
-// function tabuadaTres3() {
-//   console.log('3 x 7 = 21')
-//   console.log('3 x 8 = 24')
-//   console.log('3 x 9 = 27')
-//   console.log('3 x 10 = 30')
-// }
-
-// tabuadaTres3()
-// console.log('=========================')
-// // =====================================================
-
-// // 95 - Funções da function
-// console.log('Funções da "function":')
-
-// function funcoesFunction3() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado ao código')
-// }
-
-// funcoesFunction3()
-// console.log('=========================')
-// // =====================================================
-
-// // 96 - Funções da function
-// console.log('Funções da "function":')
-
-// function funcoesFunction4() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado a um bloco de código')
-// }
-
-// funcoesFunction4()
-// console.log('=========================')
-// // =====================================================
-
-// // 97 - Funções da function
-// console.log('Funções da "function":')
-
-// function funcoesFunction5() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado a um bloco de código')
-// }
-
-// funcoesFunction5()
-// console.log('=========================')
-// // =====================================================
-
-// // 98 - Funções da function
-// console.log('Funções da "function":')
-
-// function funcoesFunction6() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado a um bloco de código')
-// }
-
-// funcoesFunction6()
-// console.log('=========================')
-// // =====================================================
-
-// // 99 - Funções da function
-// console.log('Funções da "function":')
-
-// function funcoesFunction7() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado a um bloco de código')
-// }
-
-// funcoesFunction7()
-// console.log('=========================')
-// // =====================================================
-
-// // 100 - Funções da function
-// console.log('Funções da "function":')
-
-// function funcoesFunction8() {
-//   console.log('1. Agrupamento de código')
-//   console.log('2. Reutilização de código')
-//   console.log('3. Dar significado a um bloco de código')
-// }
-
-// funcoesFunction8()
-// console.log('=========================')
-// // =====================================================
-
-// // 101 - Fim do Exercício
-// console.log('Objetivos atingidos:')
-
-// function objetivoAtingido() {
-//   console.log('1. Fazer 100 exercícios de Funções')
-//   console.log('2. Entender as principais funções da "function"')
-//   console.log('3. Aprender a montar a estrutura de uma function')
-//   console.log('ATIVIDADE REALIZADA COM MUITO SUCESSO!!!')
-//   console.log('PARABÉNS PARA MIM!!!!! =DDDD')
-// }
-
+// 77 - 5 HQ's
+console.log('77 - Cite 5 HQs:')
+
+const quadrinhos = function cincoQuadrinhos(gibi1, gibi2, gibi3, gibi4, gibi5) {
+  console.log(gibi1)
+  console.log(gibi2)
+  console.log(gibi3)
+  console.log(gibi4)
+  console.log(gibi5)
+}
+
+quadrinhos('1. Turma da Mônica', '2. Zé Carioca', '3. Kick Ass', '4. Guarda Lunar', '5. Alien')
+console.log('=========================')
+// =====================================================
+
+// 78 - 5 navegadores
+console.log('78 - 5 navegadores:')
+
+
+const browsers = function cincoNavegadores(browser1, browser2, browser3, browser4, browser5) {
+  console.log(browser1)
+  console.log(browser2)
+  console.log(browser3)
+  console.log(browser4)
+  console.log(browser5)
+}
+
+browsers('1. Google Chrome', '2. Microsoft Edge', '3. Opera', '4. Mozilla Firefox', '5. Safari')
+console.log('=========================')
+// =====================================================
+
+// 79 - 5 idiomas
+console.log('79 - Cite 5 idiomas:')
+
+const languages = function cincoIdiomas(lang1, lang2, lang3, lang4, lang5) {
+  console.log(lang1)
+  console.log(lang2)
+  console.log(lang3)
+  console.log(lang4)
+  console.log(lang5)
+}
+
+languages('1. Português', '2. Inglês', '3. Espanhol', '4. Japonês', '5. Chinês')
+console.log('=========================')
+// =====================================================
+
+// 80 - Funções de uma function
+console.log('80 - Funções de uma "function":')
+
+const funcao80 = function funcoesFuncao80() {
+  console.log()
+  console.log()
+  console.log()
+}
+
+funcao80('1. Agrupamento de código', '2. Reutilização de código', '3. Dar significado a um bloco de código')
+console.log('=========================')
+// =====================================================
+
+// 81 - 5 marcas de celulares
+console.log('81 - Cite 5 marcas de celulares')
+
+const cell =  function marcasCelulares(phone1, phone2, phone3, phone4, phone5) {
+  console.log(phone1)
+  console.log(phone2)
+  console.log(phone3)
+  console.log(phone4)
+  console.log(phone5)
+}
+
+cell('1. Xiaomi', '2. Motorola', '3. Samsung', '4. Apple', '5. LG')
+console.log('=========================')
+// =====================================================
+
+// 82 - Mais 5 livros
+console.log('82 - Mais cinco livros:')
+
+const books2 = function maisCincoLivros(books21, books22, books23, books24, books25) {
+  console.log(books21)
+  console.log(books22)
+  console.log(books23)
+  console.log(books24)
+  console.log(books25)
+}
+
+books2('1. Sapatos Vermelhos são de Puta', '2. O Meu Pé de Laranja Lima', '3. Horror Noire', '4. Refatoração', '5. Onde Estaremos em 2200')
+console.log('=========================')
+// =====================================================
+
+// 83 - 5 animes
+console.log('83 - Cinco animes:')
+
+const animes = function cincoAnimes(anime1, anime2, anime3, anime4, anime5) {
+  console.log(anime1)
+  console.log(anime2)
+  console.log(anime3)
+  console.log(anime4)
+  console.log(anime5)
+}
+
+animes('1. Dragon Ball', '2. One Piece', '3. Naruto', '4. Shingeki No Kyojin', '5. Bleach')
+console.log('=========================')
+// =====================================================
+
+// 84 - 5 cervejas
+console.log('84 - Cinco marcas de cervejas:')
+
+const beers = function cincoCervejas(beer1, beer2, beer3, beer4, beer5) {
+  console.log(beer1)
+  console.log(beer2)
+  console.log(beer3)
+  console.log(beer4)
+  console.log(beer5)
+}
+
+beers('1. Brahma', '2. Skol', '3. Original', '4. Heineken', '5. Budweiser')
+console.log('=========================')
+// =====================================================
+
+// 85 - 5 esportes
+console.log('85 - Cinco esportes:')
+
+const sports = function cincoEsportes(sport1, sport2, sport3, sport4, sport5) {
+  console.log(sport1)
+  console.log(sport2)
+  console.log(sport3)
+  console.log(sport4)
+  console.log(sport5)
+}
+
+sports('1. Skate', '2. Natação', '3. Futebol', '4. Basquete', '5. Boxe')
+console.log('=========================')
+// =====================================================
+
+// 86 - Mais 5 esportes
+console.log('86 - Mais cinco esportes:')
+
+const sports2 = function cincoEsportes2(sports21, sports22, sports23, sports24, sports25) {
+  console.log(sports21)
+  console.log(sports22)
+  console.log(sports23)
+  console.log(sports24)
+  console.log(sports25)
+}
+
+sports2('6. Beisebol', '7. Fórmula 1', '8. Karatê', '9. Vôlei', '10. Hipismo')
+console.log('=========================')
+// =====================================================
+
+// 87 - 5 alimentos
+console.log('87 - Cinco alimentos')
+
+const foods = function cincoAlimentos(food1, food2, food3, food4, food5) {
+  console.log(food1)
+  console.log(food2)
+  console.log(food3)
+  console.log(food4)
+  console.log(food5)
+}
+
+foods('1. Pão', '2. Feijão', '3. Arroz', '4. Carne', '5. Frutas')
+console.log('=========================')
+// =====================================================
+
+// 88 - Números (Parte I)
+console.log('88 - Soma de rês números:')
+
+const numbers = function tresNumeros(number1, number2, number3) {
+  console.log(number1)
+  console.log(number2)
+  console.log(number3)
+  console.log('O resultado da soma dos três números é: ', number1 + number2 + number3)
+}
+
+numbers(3, 7, 5)
+console.log('=========================')
+// =====================================================
+
+// 89 - Números (Parte II)
+console.log('89 - Mais três números:')
+
+const soma = function tresNumeros2(number1, number2, number3) {
+  console.log(number1)
+  console.log(number2)
+  console.log(number3)
+  console.log('O resultado da expressão (', number1, '/', number2, ') +', number3, 'é:', (number1 / number2) + number3)
+}
+
+soma(10, 5, 5)
+console.log('=========================')
+// =====================================================
+
+// 90 - Funções da function
+console.log('90 - Funções de uma "function":')
+
+const funcao90 = function funcoesFunction2(funcao901, funcao902, funcao903) {
+  console.log(funcao901)
+  console.log(funcao902)
+  console.log(funcao903)
+}
+
+funcao90('1. Agrupamento de código', '2. Reutilização de código', '3. Dar significado a um bloco de código')
+console.log('=========================')
+// =====================================================
+
+// 91 - Números (Parte III)
+console.log('91 - Mais três números:')
+
+const numbers3 = function tresNumeros3(number1, number2, number3) {
+  console.log(number1)
+  console.log(number2)
+  console.log(number3)
+  console.log('O resultado da expressão (', number3, '*', number2, ') -', number1, 'é:', (number3 * number2) - number1)
+}
+
+numbers3(10, 20, 30)
+console.log('=========================')
+// =====================================================
+
+// 92 - Tabuada do 2
+console.log('92 - Tabuada do 2')
+
+const tabuada2 = function tabuadaDois(number0, number1, number2, number3, number4, number5, number6, number7, number8, number9, number10) {
+  console.log(number2, 'x', number0, '=', (number2 * number0))
+  console.log(number2, 'x', number1, '=', (number2 * number1))
+  console.log(number2, 'x', number2, '=', (number2 * number2))
+  console.log(number2, 'x', number3, '=', (number2 * number3))
+  console.log(number2, 'x', number4, '=', (number2 * number4))
+  console.log(number2, 'x', number5, '=', (number2 * number5))
+  console.log(number2, 'x', number5, '=', (number2 * number6))
+  console.log(number2, 'x', number5, '=', (number2 * number7))
+  console.log(number2, 'x', number5, '=', (number2 * number8))
+  console.log(number2, 'x', number5, '=', (number2 * number9))
+  console.log(number2, 'x', number5, '=', (number2 * number10))
+}
+
+tabuada2(0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+console.log('=========================')
+// =====================================================
+
+// 93 - Tabuada do 3
+console.log('93 - Tabuada do 3')
+
+const tabuada3 = function tabuadaTres(number0, number1, number2, number3, number4, number5, number6, number7, number8, number9, number10) {
+  console.log(number3, 'x', number0, '=', (number3 * number0))
+  console.log(number3, 'x', number1, '=', (number3 * number1))
+  console.log(number3, 'x', number2, '=', (number3 * number2))
+  console.log(number3, 'x', number3, '=', (number3 * number3))
+  console.log(number3, 'x', number4, '=', (number3 * number4))
+  console.log(number3, 'x', number5, '=', (number3 * number5))
+  console.log(number3, 'x', number6, '=', (number3 * number6))
+  console.log(number3, 'x', number7, '=', (number3 * number7))
+  console.log(number3, 'x', number8, '=', (number3 * number8))
+  console.log(number3, 'x', number9, '=', (number3 * number9))
+  console.log(number3, 'x', number10, '=', (number3 * number10))
+}
+
+tabuada3(0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+console.log('=========================')
+// =====================================================
+
+// 94 - Tabuada do 4
+console.log('94 - Tabuada do 4')
+
+const tabuada4 = function tabuadaQuatro(number0, number1, number2, number3, number4, number5, number6, number7, number8, number9, number10) {
+  console.log(number4, 'x', number0, '=', (number4 * number0))
+  console.log(number4, 'x', number1, '=', (number4 * number1))
+  console.log(number4, 'x', number2, '=', (number4 * number2))
+  console.log(number4, 'x', number3, '=', (number4 * number3))
+  console.log(number4, 'x', number4, '=', (number4 * number4))
+  console.log(number4, 'x', number5, '=', (number4 * number5))
+  console.log(number4, 'x', number6, '=', (number4 * number6))
+  console.log(number4, 'x', number7, '=', (number4 * number7))
+  console.log(number4, 'x', number8, '=', (number4 * number8))
+  console.log(number4, 'x', number9, '=', (number4 * number9))
+  console.log(number4, 'x', number10, '=', (number4 * number10))
+}
+
+tabuada4(0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+console.log('=========================')
+// =====================================================
+
+// 95 - Funções da function
+console.log('95 - Funções da "function":')
+
+const funcao95 = function funcoesFunction95(funcao951, funcao952, funcao953) {
+  console.log(funcao951)
+  console.log(funcao952)
+  console.log(funcao953)
+}
+
+funcao95('1. Agrupamento de código', '2. Reutilização de código', '3. Dar significado ao código')
+console.log('=========================')
+// =====================================================
+
+// 96 - Funções da function
+console.log('96 - Funções da "function":')
+
+const funcao96 = function funcoesFunction96(funcao961, funcao962, funcao963) {
+  console.log(funcao961)
+  console.log(funcao962)
+  console.log(funcao963)
+}
+
+funcao96('1. Agrupamento de código', '2. Reutilização de código', '3. Dar significado a um bloco de código')
+console.log('=========================')
+// =====================================================
+
+// 97 - Funções da function
+console.log('97 - Funções da "function":')
+
+const funcao97 = function funcoesFunction97(funcao971, funcao972, funcao973) {
+  console.log(funcao971)
+  console.log(funcao972)
+  console.log(funcao973)
+}
+
+funcao97('1. Agrupamento de código', '2. Reutilização de código', '3. Dar significado a um bloco de código')
+console.log('=========================')
+// =====================================================
+
+// 98 - Funções da function
+console.log('98 - Funções da "function":')
+
+const funcao98 = function funcoesFunction98(funcao981, funcao982, funcao983) {
+  console.log(funcao981)
+  console.log(funcao982)
+  console.log(funcao983)
+}
+
+funcao98('1. Agrupamento de código', '2. Reutilização de código', '3. Dar significado a um bloco de código')
+console.log('=========================')
+// =====================================================
+
+// 99 - Funções da function
+console.log('99 - Funções da "function":')
+
+const funcao99 = function funcoesFunction99(funcao991, funcao992, funcao993) {
+  console.log(funcao991)
+  console.log(funcao992)
+  console.log(funcao993)
+}
+
+funcao99('1. Agrupamento de código', '2. Reutilização de código', '3. Dar significado a um bloco de código')
+console.log('=========================')
+// =====================================================
+
+// 100 - Funções da function
+console.log('100 - Funções da "function":')
+
+const funcao100 = function funcoesFunction100() {
+  console.log()
+  console.log()
+  console.log()
+}
+
+funcao100('1. Agrupamento de código', '2. Reutilização de código', '3. Dar significado a um bloco de código')
+console.log('=========================')
+// =====================================================
+
+// 101 - Fim do Exercício
+console.log('101 - Objetivos atingidos:')
+
+const objetivo = function objetivoAtingido(frase1, frase2, frase3, frase4, frase5) {
+  console.log(frase1)
+  console.log(frase2)
+  console.log(frase3)
+  console.log(frase4)
+  console.log(frase5)
+}
+
+objetivo('1. Fazer 100 exercícios de Parâmetros', '2. Entender as principais funções da "function"', '3. Aprender a montar a estrutura de uma function', 'ATIVIDADE REALIZADA COM MUITO SUCESSO!!!', 'PARABÉNS PARA MIM!!!!! =DDDD')
 // objetivoAtingido()
